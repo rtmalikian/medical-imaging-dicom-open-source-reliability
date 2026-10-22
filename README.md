@@ -1,3 +1,13 @@
+# 📄 Download the full article — PDF
+
+[![Download PDF](https://img.shields.io/badge/Download-Full%20Article%20PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/rtmalikian/medical-imaging-dicom-open-source-reliability/raw/main/paper.pdf)
+
+### 👉 [**Click here to download the PDF**](https://github.com/rtmalikian/medical-imaging-dicom-open-source-reliability/raw/main/paper.pdf)
+
+*One click — no sign-up, no paywall. The full text is also embedded in this README below.*
+
+---
+
 # Silent Failures in the Imaging Stack: A Retrospective Analysis of Open-Source Contributions to Medical Imaging Software: DICOM Geometry, Warnings Discipline, and Pipeline Reliability (2025-2026)
 
 **Author:** Raphael T. Malikian, MBBS BSc (Hons), Independent Researcher, Palmdale, California, USA
