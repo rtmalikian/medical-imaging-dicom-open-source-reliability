@@ -1,8 +1,8 @@
 # 📄 Download the full article — PDF
 
-[![Download PDF](https://img.shields.io/badge/Download-Full%20Article%20PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/rtmalikian/medical-imaging-dicom-open-source-reliability/raw/main/paper.pdf)
+[![Download PDF](https://img.shields.io/badge/Download-Full%20Article%20PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/rtmalikian/medical-imaging-dicom-open-source-reliability/raw/main/article2-medical-imaging.pdf)
 
-### 👉 [**Click here to download the PDF**](https://github.com/rtmalikian/medical-imaging-dicom-open-source-reliability/raw/main/paper.pdf)
+### 👉 [**Click here to download the PDF**](https://github.com/rtmalikian/medical-imaging-dicom-open-source-reliability/raw/main/article2-medical-imaging.pdf)
 
 *One click — no sign-up, no paywall. The full text is also embedded in this README below.*
 
