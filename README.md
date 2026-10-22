@@ -16,7 +16,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23549102.svg)](https://doi.org/10.5281/zenodo.23549102)
 **Preprint:** [Zenodo](https://doi.org/10.5281/zenodo.23549102) | **License:** CC BY 4.0 | **PDF:** [article2-medical-imaging.pdf](article2-medical-imaging.pdf)
 
-Submitted to the Journal of Imaging Informatics in Medicine. Preprint: Zenodo.
+Submitted to Academic Radiology (Manuscript ARAD-S-26-05599). Preprint: Zenodo.
 
 ## About this paper
 
