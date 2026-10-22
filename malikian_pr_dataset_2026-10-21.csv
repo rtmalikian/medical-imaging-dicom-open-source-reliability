@@ -1,0 +1,214 @@
+repository,pr_number,title,status,created_at,merged_at,closed_at,comments,url
+zigcBenx/githappens,160,docs: clean up setup and usage guide,open,2026-05-16,,,0,https://github.com/zigcBenx/githappens/pull/160
+zigcBenx/githappens,161,refactor: split CLI into modular package,open,2026-05-16,,,0,https://github.com/zigcBenx/githappens/pull/161
+rtmalikian/CareBridge-Multigenerational-Family-Health-Chatbot,1,"Add consent-gated AI orchestration (Gemini Flash), DB-backed consent/audit, auth, and safety middleware",merged,2026-05-16,2026-05-16,2026-05-16,0,https://github.com/rtmalikian/CareBridge-Multigenerational-Family-Health-Chatbot/pull/1
+rtmalikian/bouncing-8ball-animation,1,chore: remove unused runtime dependency,open,2026-05-17,,,0,https://github.com/rtmalikian/bouncing-8ball-animation/pull/1
+rtmalikian/fantom-6-7-8-midi-tool,1,fix: validate Electron MIDI parameter values,merged,2026-05-18,2026-05-18,2026-05-18,0,https://github.com/rtmalikian/fantom-6-7-8-midi-tool/pull/1
+rtmalikian/Music-of-the-Armenian-Divine-Liturgy,1,fix: escape score index markdown table cells,open,2026-05-19,,,0,https://github.com/rtmalikian/Music-of-the-Armenian-Divine-Liturgy/pull/1
+rtmalikian/CareBridge-Multigenerational-Family-Health-Chatbot,2,fix: escape dynamic frontend card content,open,2026-05-20,,,0,https://github.com/rtmalikian/CareBridge-Multigenerational-Family-Health-Chatbot/pull/2
+rtmalikian/melodic-microchop,1,fix: sanitize render output track names,open,2026-05-21,,,0,https://github.com/rtmalikian/melodic-microchop/pull/1
+rtmalikian/fridgemate,1,fix: restrict backend CORS origins,open,2026-05-22,,,0,https://github.com/rtmalikian/fridgemate/pull/1
+rtmalikian/rhymepad,1,fix: update vulnerable qs lockfile entry,open,2026-05-23,,,0,https://github.com/rtmalikian/rhymepad/pull/1
+rtmalikian/llm-swarm,1,feat: add optional swarm API key auth,open,2026-05-25,,,0,https://github.com/rtmalikian/llm-swarm/pull/1
+rtmalikian/bitnet-chat,1,fix: restrict web server CORS defaults,open,2026-05-26,,,0,https://github.com/rtmalikian/bitnet-chat/pull/1
+entbappy/End-to-end-Medical-Chatbot-using-Llama2,8,"fix: modernize Pinecone v3+ and LangChain APIs (fixes #1, #2, #5)",open,2026-06-17,,,0,https://github.com/entbappy/End-to-end-Medical-Chatbot-using-Llama2/pull/8
+mims-harvard/TxAgent,26,fix: use stable cache dir for tool embeddings and remove exit() call,open,2026-06-17,,,0,https://github.com/mims-harvard/TxAgent/pull/26
+agno-agi/agno,8463,fix: parameterize ClickHouse delete_by_metadata to prevent SQL injection (#7866),closed_unmerged,2026-06-17,,2026-06-17,1,https://github.com/agno-agi/agno/pull/8463
+aayushraj1010/med-genie,550,"fix: chatbot returns error on every query — add API key validation and error handling (#265, #359)",open,2026-06-17,,,1,https://github.com/aayushraj1010/med-genie/pull/550
+DeependraVerma/end-to-end-medical-chatbot-llama-2,2,fix: add retry logic and error handling for Pinecone query timeouts,open,2026-06-17,,,0,https://github.com/DeependraVerma/end-to-end-medical-chatbot-llama-2/pull/2
+manticoresoftware/columnar,187,fix: propagate API error messages for auto-embeddings with empty/too-long input,open,2026-06-17,,,3,https://github.com/manticoresoftware/columnar/pull/187
+openemr/openemr,12525,fix: prevent PHP 8 TypeError in Claim::payerCount() and procCount(),merged,2026-06-17,2026-06-18,2026-06-18,5,https://github.com/openemr/openemr/pull/12525
+medplum/medplum,9544,test: add _project search parameter tests for MemoryRepository (#8831),closed_unmerged,2026-06-18,,2026-08-26,3,https://github.com/medplum/medplum/pull/9544
+deepchem/deepchem,5007,fix: use accurate memory estimation for DiskDataset cache (#4061),open,2026-06-18,,,0,https://github.com/deepchem/deepchem/pull/5007
+bowang-lab/MedSAM,418,fix: replace undefined self.npy_files with correct path in assertion messages,open,2026-06-18,,,0,https://github.com/bowang-lab/MedSAM/pull/418
+FreedomIntelligence/OpenClaw-Medical-Skills,37,fix: remove Git LFS tracking from .gitattributes (closes #26),merged,2026-06-18,2026-06-18,2026-06-18,0,https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills/pull/37
+hapifhir/hapi-fhir,8100,fix: handle boolean property type in DSTU3 remote terminology lookup (#6662),open,2026-06-18,,,0,https://github.com/hapifhir/hapi-fhir/pull/8100
+microsoft/fhir-server,5623,fix: exclude Parameters from SyncSearchParameters (Fixes #3876),closed_unmerged,2026-06-18,,2026-10-20,1,https://github.com/microsoft/fhir-server/pull/5623
+TorchIO-project/torchio,1478,Support v1 tensor= keyword for backward compatibility (#1247),closed_unmerged,2026-06-18,,2026-07-13,2,https://github.com/TorchIO-project/torchio/pull/1478
+NVIDIA-BioNeMo/bionemo-recipes,1654,docs: replace obsolete --experiment-dir with --result-dir in SLURM guide (#1128),open,2026-06-18,,,2,https://github.com/NVIDIA-BioNeMo/bionemo-recipes/pull/1654
+AIAnytime/Llama2-Medical-Chatbot,29,"fix: update LangChain/Pydantic APIs for v2 compatibility (fixes #25, #23)",merged,2026-06-18,2026-06-24,2026-06-24,0,https://github.com/AIAnytime/Llama2-Medical-Chatbot/pull/29
+beda-software/fhir-py,154,fix: preserve empty list/dict values in serialize() when fields specified (#146),open,2026-06-18,,,0,https://github.com/beda-software/fhir-py/pull/154
+Liohtml/MedCheck,116,"fix: prevent PHI leakage via .gitignore and add HTTP security headers (#114, #109)",merged,2026-06-18,2026-06-19,2026-06-19,9,https://github.com/Liohtml/MedCheck/pull/116
+LLM-Product-Engineering-Project/Medical,10,fix: use batch embedding via embed_documents() for vector DB creation (#8),open,2026-06-18,,,0,https://github.com/LLM-Product-Engineering-Project/Medical/pull/10
+maziyarpanahi/openmed,371,fix: use unique placeholders for repeated entity types in deidentify() (closes #222),merged,2026-06-18,2026-06-18,2026-06-18,1,https://github.com/maziyarpanahi/openmed/pull/371
+BrainLesion/preprocessing,180,fix: use P-axis length for ys calculation and clip S-axis bounds (#167),open,2026-06-18,,,2,https://github.com/BrainLesion/preprocessing/pull/180
+smart-on-fhir/client-py,208,fix: allow search parameter names in FHIRSearch.include() (#140),closed_unmerged,2026-06-18,,2026-06-30,1,https://github.com/smart-on-fhir/client-py/pull/208
+hapifhir/hapi-fhir,8101,fix: guard against negative maxCount in include loading to prevent HAPI-2223,open,2026-06-18,,,0,https://github.com/hapifhir/hapi-fhir/pull/8101
+thetahealth/mirobody,33,fix: replace hardcoded CORS with configurable CORSMiddleware (closes #17),merged,2026-06-18,2026-06-24,2026-06-24,0,https://github.com/thetahealth/mirobody/pull/33
+oddt/oddt,182,fix: update scikit-image marching_cubes import for >= 0.18 compatibility (closes #180),closed_unmerged,2026-06-18,,2026-10-09,4,https://github.com/oddt/oddt/pull/182
+black0017/MedicalZooPytorch,38,fix: handle singleton channel dim in expand_as_one_hot (closes #36),open,2026-06-18,,,0,https://github.com/black0017/MedicalZooPytorch/pull/38
+earthians/marley,1035,fix: accept data kwarg in dashboard get_data() for Frappe v15 compatibility (closes #798),merged,2026-06-18,2026-06-18,2026-06-18,0,https://github.com/earthians/marley/pull/1035
+datamol-io/datamol,243,fix: convert enforce_subs strings to Mol objects in fuzzy_scaffolding,closed_unmerged,2026-06-18,,2026-09-01,1,https://github.com/datamol-io/datamol/pull/243
+nazrulworld/fhir-core,22,fix: preserve Decimal precision during serialization,open,2026-06-18,,,1,https://github.com/nazrulworld/fhir-core/pull/22
+langchain-ai/langchain,38246,fix: prevent #TITLE# sentinel leak and KeyError in HTMLSectionSplitter (#38142),closed_unmerged,2026-06-18,,2026-06-18,1,https://github.com/langchain-ai/langchain/pull/38246
+BrainLesion/preprocessing,181,fix: include Zenodo API error response body in error messages (#169),open,2026-06-18,,,3,https://github.com/BrainLesion/preprocessing/pull/181
+the-momentum/open-wearables,1204,fix: accept float values for Polar training load fields (Fixes #1198),merged,2026-06-18,2026-06-18,2026-06-18,1,https://github.com/the-momentum/open-wearables/pull/1204
+aibharata/medicalAI,16,fix: add steps parameter to predict() for generators and fix load_network() NameError (Fixes #15),open,2026-06-18,,,0,https://github.com/aibharata/medicalAI/pull/16
+HiLab-git/SSL4MIS,101,fix: use per-sample dice computation in DiceLoss to match CrossEntropyLoss mean reduction (#74),open,2026-06-18,,,0,https://github.com/HiLab-git/SSL4MIS/pull/101
+allenai/scispacy,591,fix: truncate cache filenames to avoid OSError on eCryptfs/encfs (#447),open,2026-06-18,,,0,https://github.com/allenai/scispacy/pull/591
+DLTK/DLTK,69,feat: apply same elastic_transform to multiple images (Fixes #68),open,2026-06-18,,,0,https://github.com/DLTK/DLTK/pull/69
+Machine-Learning-for-Medical-Language/cnlp_transformers,251,fix: use cast_column for faster string conversion of label columns (Fixes #145),open,2026-06-18,,,0,https://github.com/Machine-Learning-for-Medical-Language/cnlp_transformers/pull/251
+polaris-hub/polaris,304,fix: consolidate Zarr metadata after caching to fix to_json serialization (Fixes #303),open,2026-06-18,,,0,https://github.com/polaris-hub/polaris/pull/304
+chemprop/chemprop,1376,fix: validate bond_predictor input_dim accounts for reverse-edge concatenation (Fixes #1356),closed_unmerged,2026-06-18,,2026-06-18,1,https://github.com/chemprop/chemprop/pull/1376
+nazrulworld/fhir.resources,206,fix: enforce Extension.url required validation per FHIR spec (Fixes #205),open,2026-06-18,,,0,https://github.com/nazrulworld/fhir.resources/pull/206
+beda-software/fhirpath-py,74,fix: return empty collection when join() is called on empty collection (Fixes #65),closed_unmerged,2026-06-18,,2026-08-25,1,https://github.com/beda-software/fhirpath-py/pull/74
+ImprintLab/MedSegDiff,230,"fix: resolve Python 3.12+ syntax errors in escape sequences and type annotations (Fixes #228, #216)",open,2026-06-18,,,0,https://github.com/ImprintLab/MedSegDiff/pull/230
+chroma-core/chroma,7280,fix: respect settings.persist_directory when path is not provided (Fixes #7277),open,2026-06-18,,,1,https://github.com/chroma-core/chroma/pull/7280
+tencent-ailab/DrugOOD,14,fix: pass domain_cfg to DomainInfo to resolve KeyError on protein_family_level (Fixes #10),open,2026-06-18,,,0,https://github.com/tencent-ailab/DrugOOD/pull/14
+the-momentum/fhir-mcp-server,57,"fix: accept individual parameters in FHIR tool functions (Fixes #29, #56)",open,2026-06-18,,,0,https://github.com/the-momentum/fhir-mcp-server/pull/57
+fideus-labs/ngff-zarr,552,fix: use >= in to_multiscales loop to handle exact chunk-size multiples (Fixes #551),merged,2026-06-18,2026-06-19,2026-06-19,2,https://github.com/fideus-labs/ngff-zarr/pull/552
+razorx89/pydicom-seg,63,fix: use pydicom.uid import for pydicom 3.0 compatibility (Fixes #60),open,2026-06-18,,,0,https://github.com/razorx89/pydicom-seg/pull/63
+BiomedSciAI/fuse-med-ml,418,fix: replace sub-dict keys on assignment in NDict.__setitem__ (Fixes #397),open,2026-06-18,,,0,https://github.com/BiomedSciAI/fuse-med-ml/pull/418
+jdagdelen/hyperDB,39,fix: eliminate variable shadowing in get_embedding and add list key support (Fixes #37),open,2026-06-18,,,0,https://github.com/jdagdelen/hyperDB/pull/39
+pympler/pympler,179,fix: use non-container object in test_untracked_containers for Python 3.14+ (Fixes #177),open,2026-06-18,,,0,https://github.com/pympler/pympler/pull/179
+nipoppy/nipoppy,1047,fix: skip file operations in run_cleanup when --simulate is used (Fixes #1046),closed_unmerged,2026-06-18,,2026-07-02,1,https://github.com/nipoppy/nipoppy/pull/1047
+nipy/nipype,3755,fix: DataGrabber._list_outputs TypeError when single file matches template (Fixes #3732),merged,2026-06-18,2026-08-25,2026-08-25,3,https://github.com/nipy/nipype/pull/3755
+pydicom/pydicom,2339,fix: handle embedded NUL in SpecificCharacterSet encoding (Fixes #2338),open,2026-06-18,,,1,https://github.com/pydicom/pydicom/pull/2339
+synthetichealth/synthea,1674,docs: document argument order precedence for -c and --config flags (Fixes #1668),merged,2026-06-18,2026-06-29,2026-06-29,0,https://github.com/synthetichealth/synthea/pull/1674
+medplum/medplum,9552,fix: support compose.include.valueSet in ValueSet/$validate-code (Fixes #9514),closed_unmerged,2026-06-18,,2026-08-26,6,https://github.com/medplum/medplum/pull/9552
+Project-MONAI/MONAI,8921,fix: return mu (not mu+std) in VarAutoEncoder reparameterize at eval time (Fixes #8413),closed_unmerged,2026-06-18,,2026-08-13,2,https://github.com/Project-MONAI/MONAI/pull/8921
+synthetichealth/synthea,1675,"fix: use MD5-based UUID for ClaimTransaction IDs to prevent duplicate primary keys (Fixes #1648, #1545)",open,2026-06-18,,,4,https://github.com/synthetichealth/synthea/pull/1675
+Project-MONAI/MONAI,8922,fix: warn when PydicomReader cannot determine affine from DICOM metadata (Fixes #8468),merged,2026-06-18,2026-07-11,2026-07-11,3,https://github.com/Project-MONAI/MONAI/pull/8922
+OHDSI/CommonDataModel,786,fix: correct broken forum URLs across docs and Rmd sources (Fixes #754),closed_unmerged,2026-06-18,,2026-07-21,2,https://github.com/OHDSI/CommonDataModel/pull/786
+Project-MONAI/MONAI,8924,fix: correct typo in PerceptualLoss MedicalNet warning message (Fixes #8923),closed_unmerged,2026-06-18,,2026-06-29,2,https://github.com/Project-MONAI/MONAI/pull/8924
+fedbiomed/fedbiomed,1800,"fix: handle dict-of-tensors in format conversion pipeline (Fixes #1799, #1724)",closed_unmerged,2026-06-19,,2026-06-29,2,https://github.com/fedbiomed/fedbiomed/pull/1800
+Project-MONAI/MONAI,8926,fix: guard division by zero in DICOMReader._get_affine for single-slice volumes (Fixes #8925),merged,2026-06-19,2026-06-29,2026-06-29,1,https://github.com/Project-MONAI/MONAI/pull/8926
+Project-MONAI/MONAI,8928,fix: replace `raise UserWarning` with `warnings.warn()` in verify_report_format (Fixes #8927),merged,2026-06-19,2026-06-30,2026-06-30,1,https://github.com/Project-MONAI/MONAI/pull/8928
+synthetichealth/synthea,1676,fix: set Claim.total to sum of item.net values in FHIR exports (Fixes #1513),merged,2026-06-19,2026-06-30,2026-06-30,3,https://github.com/synthetichealth/synthea/pull/1676
+medplum/medplum,9557,fix: stop polling cancelled AsyncJob by returning 200 from status endpoint (Fixes #5575),merged,2026-06-19,2026-06-19,2026-06-19,3,https://github.com/medplum/medplum/pull/9557
+medplum/medplum,9560,fix: add Accept-Encoding: identity to token exchange in verifyExternalCode (Fixes #9558),merged,2026-06-19,2026-06-19,2026-06-19,4,https://github.com/medplum/medplum/pull/9560
+medplum/medplum,9561,docs: add dedicated section for Project.defaultProfile (Fixes #9556),merged,2026-06-19,2026-07-06,2026-07-06,6,https://github.com/medplum/medplum/pull/9561
+maziyarpanahi/openmed,390,fix: remove duplicate _add_benchmark_command call in CLI parser (Fixes #389),merged,2026-06-19,2026-06-19,2026-06-19,0,https://github.com/maziyarpanahi/openmed/pull/390
+maziyarpanahi/openmed,393,"fix: consolidate validation, HTML, and release gate fixes",closed_unmerged,2026-06-19,,2026-06-19,1,https://github.com/maziyarpanahi/openmed/pull/393
+maziyarpanahi/openmed,394,fix: escape user-controlled text in to_html to prevent XSS (Fixes #392),closed_unmerged,2026-06-19,,2026-06-19,1,https://github.com/maziyarpanahi/openmed/pull/394
+deepchem/deepchem,5014,fix: replace raise DeprecationWarning with warnings.warn() in all featurizers (Fixes #5013),open,2026-06-19,,,1,https://github.com/deepchem/deepchem/pull/5014
+deepchem/deepchem,5016,fix: correct ButinaSplitter logger format and typos in splitters.py (Fixes #5015),open,2026-06-19,,,1,https://github.com/deepchem/deepchem/pull/5016
+maziyarpanahi/openmed,397,fix: handle missing candidate file gracefully in release gates (Fixes #396),closed_unmerged,2026-06-19,,2026-06-19,1,https://github.com/maziyarpanahi/openmed/pull/397
+allenai/scispacy,594,"fix: use list instead of set for ordered span zip in PerClassScorer (Fixes #592, #593)",open,2026-06-19,,,1,https://github.com/allenai/scispacy/pull/594
+medplum/medplum,9565,fix: include _id search param in field selector display (Fixes #6043),open,2026-06-19,,,4,https://github.com/medplum/medplum/pull/9565
+deepchem/deepchem,5018,"fix: correct HingeLoss docstring label values from {0,1} to {-1,1} (Fixes #5017)",open,2026-06-19,,,1,https://github.com/deepchem/deepchem/pull/5018
+synthetichealth/synthea,1678,fix: use .equals() instead of == for String comparisons (Fixes #1677),merged,2026-06-19,2026-06-29,2026-06-29,2,https://github.com/synthetichealth/synthea/pull/1678
+synthetichealth/synthea,1679,fix: correct PDW lab value range from 150-520 to 9-17 fL (Fixes #1557),merged,2026-06-19,2026-06-29,2026-06-29,1,https://github.com/synthetichealth/synthea/pull/1679
+deepchem/deepchem,5022,fix: correct DTNNEmbedding parameter typo 'initalizer' → 'initializer' (Fixes #5021),open,2026-06-19,,,1,https://github.com/deepchem/deepchem/pull/5022
+deepchem/deepchem,5024,fix: replace remaining 36  with  (Fixes #5023),open,2026-06-19,,,1,https://github.com/deepchem/deepchem/pull/5024
+Project-MONAI/MONAI,8930,fix: add missing stacklevel=2 to warnings.warn() in losses/ (Fixes #8929),merged,2026-06-19,2026-06-26,2026-06-26,1,https://github.com/Project-MONAI/MONAI/pull/8930
+Project-MONAI/MONAI,8932,fix: add missing stacklevel=2 to warnings.warn() in metrics/ (Fixes #8931),merged,2026-06-19,2026-06-25,2026-06-25,3,https://github.com/Project-MONAI/MONAI/pull/8932
+synthetichealth/synthea,1681,fix: use null-safe String comparison for observation.category in FhirR4 (Fixes #1680),merged,2026-06-19,2026-06-29,2026-06-29,1,https://github.com/synthetichealth/synthea/pull/1681
+medplum/medplum,9566,fix: resolve $mantine-breakpoint-xs in Header.module.css to prevent CSS leakage (Fixes #9257),closed_unmerged,2026-06-19,,2026-06-19,3,https://github.com/medplum/medplum/pull/9566
+synthetichealth/synthea,1683,fix: close FileInputStream in Mapping.parseMapping() via try-with-resources (Fixes #1682),merged,2026-06-19,2026-06-29,2026-06-29,1,https://github.com/synthetichealth/synthea/pull/1683
+maziyarpanahi/openmed,400,fix: correct misleading TUI fallback message in CLI (Fixes #399),closed_unmerged,2026-06-19,,2026-06-19,3,https://github.com/maziyarpanahi/openmed/pull/400
+allenai/scispacy,596,fix: use hypernym instead of hyponym in which_look_like Hearst pattern (Fixes #595),open,2026-06-19,,,0,https://github.com/allenai/scispacy/pull/596
+allenai/scispacy,598,fix: use context manager for file handle in evaluate_ner() (Fixes #597),open,2026-06-19,,,0,https://github.com/allenai/scispacy/pull/598
+allenai/scispacy,600,fix: close file handles with context managers in data_util.py and umls_semantic_type_tree.py (Fixes #599),open,2026-06-19,,,0,https://github.com/allenai/scispacy/pull/600
+allenai/scispacy,602,fix: correct typos in CandidateGenerator error message and comment (Fixes #601),open,2026-06-19,,,0,https://github.com/allenai/scispacy/pull/602
+fedbiomed/fedbiomed,1803,fix: add missing .value to ErrorNumbers enum in transport f-strings (Fixes #1801),merged,2026-06-19,2026-06-29,2026-06-29,0,https://github.com/fedbiomed/fedbiomed/pull/1803
+fedbiomed/fedbiomed,1804,fix: use context managers and fix UnboundLocalError in configure_peer.py (Fixes #1802),closed_unmerged,2026-06-19,,2026-09-14,4,https://github.com/fedbiomed/fedbiomed/pull/1804
+fedbiomed/fedbiomed,1806,fix: close socket on connection failure in is_server_alive() (Fixes #1805),merged,2026-06-19,2026-07-16,2026-07-16,1,https://github.com/fedbiomed/fedbiomed/pull/1806
+fedbiomed/fedbiomed,1808,fix: close log file handle when subprocess.Popen fails in start() (Fixes #1807),closed_unmerged,2026-06-19,,2026-06-19,1,https://github.com/fedbiomed/fedbiomed/pull/1808
+fedbiomed/fedbiomed,1809,fix: close log file handle when subprocess.Popen fails in start() (Fixes #1807),closed_unmerged,2026-06-19,,2026-06-29,1,https://github.com/fedbiomed/fedbiomed/pull/1809
+fedbiomed/fedbiomed,1811,fix: remove redundant f.close() inside with blocks and fix misleading error message (Fixes #1810),closed_unmerged,2026-06-19,,2026-06-29,1,https://github.com/fedbiomed/fedbiomed/pull/1811
+OHDSI/CommonDataModel,788,"fix: mark cohort_definition_id as primary key in v5.3 and v5.4 (Fixes #787, #772)",open,2026-06-19,,,1,https://github.com/OHDSI/CommonDataModel/pull/788
+OHDSI/CommonDataModel,789,fix: update telehealth visit concept from 5083 to 722455 in visit_occurrence docs (Fixes #742),closed_unmerged,2026-06-19,,2026-08-04,2,https://github.com/OHDSI/CommonDataModel/pull/789
+OHDSI/CommonDataModel,791,fix: upgrade HTTP links to HTTPS in Rmd source and generated HTML docs (Fixes #790),closed_unmerged,2026-06-19,,2026-07-21,2,https://github.com/OHDSI/CommonDataModel/pull/791
+OHDSI/CommonDataModel,792,"fix: wrap comma-containing field in quotes in v5.4 Field_Level CSV (Fixes #775, #744)",closed_unmerged,2026-06-19,,2026-07-21,2,https://github.com/OHDSI/CommonDataModel/pull/792
+chroma-core/chroma,7283,[BUG](embedding-functions): add missing stacklevel=2 to warnings.warn() (Fixes #7282),open,2026-06-19,,,2,https://github.com/chroma-core/chroma/pull/7283
+chroma-core/chroma,7285,[BUG](embedding-functions): fix KeyError when API response missing result key (Fixes #7284),open,2026-06-19,,,1,https://github.com/chroma-core/chroma/pull/7285
+chroma-core/chroma,7287,[BUG](cli): fix unreachable  subcommand (Fixes #7286),open,2026-06-19,,,1,https://github.com/chroma-core/chroma/pull/7287
+chroma-core/chroma,7289,[BUG](api): reject bool values in HNSW parameter validators (Fixes #7288),open,2026-06-19,,,1,https://github.com/chroma-core/chroma/pull/7289
+chroma-core/chroma,7291,[BUG](api): reject bool values in HNSWConfigurationInternal validators (Fixes #7290),open,2026-06-19,,,1,https://github.com/chroma-core/chroma/pull/7291
+chroma-core/chroma,7293,[BUG](db): fix trailing underscore typo in PerThreadPool annotation (Fixes #7292),open,2026-06-19,,,1,https://github.com/chroma-core/chroma/pull/7293
+chroma-core/chroma,7295,[BUG](api): fix grammar errors in validation error messages in types.py (Fixes #7294),open,2026-06-19,,,1,https://github.com/chroma-core/chroma/pull/7295
+chroma-core/chroma,7297,[BUG](api): fix confusing 'Limit limit' wording in error messages (Fixes #7296),open,2026-06-19,,,1,https://github.com/chroma-core/chroma/pull/7297
+chroma-core/chroma,7299,[DOC](db): fix double word 'the the' in ProcessLocalQueue docstring (Fixes #7298),open,2026-06-19,,,1,https://github.com/chroma-core/chroma/pull/7299
+beda-software/fhir-py,156,fix: set Content-Type to application/fhir+json for PATCH requests (Fixes #155),open,2026-06-19,,,1,https://github.com/beda-software/fhir-py/pull/156
+microsoft/fhir-server,5625,fix: Accept params in export Accept header (Fixes #3876),open,2026-06-19,,,2,https://github.com/microsoft/fhir-server/pull/5625
+maziyarpanahi/openmed,407,fix: correct misleading message in _run_basic_tui_entry fallback (Fixes #399),merged,2026-06-19,2026-06-24,2026-06-24,1,https://github.com/maziyarpanahi/openmed/pull/407
+microsoft/fhir-server,5628,fix: add null-safety checks in ValidateController.ProcessResource() (Fixes #5627),closed_unmerged,2026-06-20,,2026-10-20,1,https://github.com/microsoft/fhir-server/pull/5628
+aphp/edsnlp,513,fix: add missing stacklevel=2 to warnings.warn() calls (Fixes #512),open,2026-06-20,,,2,https://github.com/aphp/edsnlp/pull/513
+medspacy/medspacy,337,fix: add missing stacklevel=2 to warnings.warn() calls (Fixes #336),open,2026-06-20,,,0,https://github.com/medspacy/medspacy/pull/337
+lancedb/lancedb,3564,fix: add missing stacklevel=2 to warnings.warn() and fix broken message concatenation (Fixes #3563),merged,2026-06-20,2026-06-23,2026-06-23,0,https://github.com/lancedb/lancedb/pull/3564
+qdrant/qdrant,9526,fix: add upper-bound validation for shard_number to prevent server crash (Fixes #9520),closed_unmerged,2026-06-20,,2026-06-27,6,https://github.com/qdrant/qdrant/pull/9526
+microsoft/fhir-server,5630,fix: NullReferenceException in ParameterCompatibleFilter.ParseResource (Fixes #5114),open,2026-06-20,,,0,https://github.com/microsoft/fhir-server/pull/5630
+qdrant/qdrant-client,1233,fix: pass search_params through local mode call chain (Fixes #1083),closed_unmerged,2026-06-20,,2026-06-23,3,https://github.com/qdrant/qdrant-client/pull/1233
+milvus-io/pymilvus,3621,fix: correct is_correct_date_str() always returning False and reject bool in TYPE_VALIDATOR (Fixes #3620),open,2026-06-20,,,12,https://github.com/milvus-io/pymilvus/pull/3621
+sunlabuiuc/PyHealth,1163,fix: include __init__ docstrings in Sphinx documentation output (Fixes #1144),open,2026-06-20,,,3,https://github.com/sunlabuiuc/PyHealth/pull/1163
+weaviate/weaviate-python-client,2077,fix: reject bool values in ConnectionConfig int validators (Fixes #2076),merged,2026-06-20,2026-06-24,2026-06-24,2,https://github.com/weaviate/weaviate-python-client/pull/2077
+milvus-io/pymilvus,3624,fix: reject bool values in sparse_vector_validator and fix misleading error message (Fixes #3623),merged,2026-06-20,2026-06-22,2026-06-22,7,https://github.com/milvus-io/pymilvus/pull/3624
+sunlabuiuc/PyHealth,1165,fix: add missing stacklevel=2 to 14 warnings.warn() calls (Fixes #1164),open,2026-06-20,,,3,https://github.com/sunlabuiuc/PyHealth/pull/1165
+qdrant/qdrant-client,1235,fix: close lock file handle on exception in local mode (Fixes #1234),open,2026-06-20,,,3,https://github.com/qdrant/qdrant-client/pull/1235
+qdrant/qdrant-client,1236,fix: catch ImportError in QdrantLocal.close() during Python shutdown (Fixes #1079),open,2026-06-21,,,2,https://github.com/qdrant/qdrant-client/pull/1236
+aphp/edsnlp,514,fix: pass deduplicate=False to get_spans() in converter classes (Fixes #459),closed_unmerged,2026-06-21,,2026-09-11,2,https://github.com/aphp/edsnlp/pull/514
+qdrant/qdrant-client,1238,fix: use continue instead of return in update_vectors filter loop (Fixes #1237),closed_unmerged,2026-06-21,,2026-06-26,4,https://github.com/qdrant/qdrant-client/pull/1238
+milvus-io/pymilvus,3638,fix: reject bool values as sparse vector indices (Fixes #3622),merged,2026-06-26,2026-07-06,2026-07-06,7,https://github.com/milvus-io/pymilvus/pull/3638
+qdrant/qdrant-client,1248,fix: use continue instead of return None in update_vectors filter loop (Fixes #1237),closed_unmerged,2026-06-26,,2026-07-09,3,https://github.com/qdrant/qdrant-client/pull/1248
+future-agi/future-agi,1088,fix: correct internal gateway port from 8090 to 8080 in docker-compose.yml (Fixes #1058),closed_unmerged,2026-06-26,,2026-06-27,2,https://github.com/future-agi/future-agi/pull/1088
+milvus-io/pymilvus,3641,fix: handle 1D scipy sparse arrays from csr_array iteration (Fixes #2942),open,2026-06-27,,,4,https://github.com/milvus-io/pymilvus/pull/3641
+future-agi/future-agi,1100,fix: correct internal gateway URLs from port 8090 to 8080 in .env.example (Fixes #1058),closed_unmerged,2026-06-27,,2026-06-27,3,https://github.com/future-agi/future-agi/pull/1100
+weaviate/weaviate-python-client,2082,fix: convert NumPy arrays in insert_many vector field (Fixes #1002),open,2026-06-27,,,2,https://github.com/weaviate/weaviate-python-client/pull/2082
+qdrant/qdrant,9595,fix: correct off-by-one in vector dimension max validation from 65536 to 65535 (Fixes #9044),closed_unmerged,2026-06-27,,2026-06-27,2,https://github.com/qdrant/qdrant/pull/9595
+future-agi/future-agi,1110,fix: correct internal gateway URLs from port 8090 to 8080 in .env.example (Fixes #1058),closed_unmerged,2026-06-27,,2026-10-21,3,https://github.com/future-agi/future-agi/pull/1110
+lancedb/lancedb,3590,fix: add missing stacklevel=2 to warnings.warn() calls (Fixes #3589),merged,2026-06-27,2026-06-29,2026-06-29,0,https://github.com/lancedb/lancedb/pull/3590
+beda-software/fhir-py,157,fix: use __getattr__/__setattr__ instead of __dict__ injection in AttrDict (Fixes #110),open,2026-06-27,,,0,https://github.com/beda-software/fhir-py/pull/157
+milvus-io/pymilvus,3642,fix: add positive-int validation for target_size in compact() (Fixes #3169),merged,2026-06-28,2026-06-29,2026-06-29,7,https://github.com/milvus-io/pymilvus/pull/3642
+weaviate/weaviate-python-client,2083,fix: include gRPC status code in batch delete error messages (Fixes #1030),merged,2026-06-28,2026-07-24,2026-07-24,2,https://github.com/weaviate/weaviate-python-client/pull/2083
+lancedb/lancedb,3591,fix(python): raise clear error when permutation API is used on remote tables (Fixes #2934),merged,2026-06-28,2026-06-29,2026-06-29,0,https://github.com/lancedb/lancedb/pull/3591
+qdrant/qdrant,9605,fix: align non-indexed integer match with indexed path (Fixes #9584),closed_unmerged,2026-06-28,,2026-06-30,6,https://github.com/qdrant/qdrant/pull/9605
+fedbiomed/fedbiomed,1819,fix: remove redundant f.close() inside with blocks and fix misleading error message (Fixes #1810),merged,2026-06-29,2026-07-01,2026-07-01,2,https://github.com/fedbiomed/fedbiomed/pull/1819
+lancedb/lancedb,3595,fix: make table.version backwards-compatible with callable syntax (Fixes #3539),closed_unmerged,2026-06-29,,2026-06-30,1,https://github.com/lancedb/lancedb/pull/3595
+medspacy/medspacy,339,fix: make Sectionizer docstring raw to fix Python 3.12 invalid escape sequence (Fixes #338),open,2026-06-29,,,0,https://github.com/medspacy/medspacy/pull/339
+qdrant/qdrant,9627,fix: return error for missing point IDs in Query API recommend (Fixes #9390),closed_unmerged,2026-06-29,,2026-06-30,2,https://github.com/qdrant/qdrant/pull/9627
+future-agi/future-agi,1169,fix: replace em-dash with hyphen in install.ps1 for Windows PS 5.1 compat (Fixes #1124),merged,2026-06-30,2026-07-10,2026-07-10,2,https://github.com/future-agi/future-agi/pull/1169
+qdrant/qdrant,9633,fix: handle values_count in FieldCondition::check_empty() (Fixes #9586),closed_unmerged,2026-06-30,,2026-06-30,2,https://github.com/qdrant/qdrant/pull/9633
+qdrant/qdrant,9638,fix: return error for missing point IDs in Query API recommend (Fixes #9390),merged,2026-06-30,2026-07-13,2026-07-13,4,https://github.com/qdrant/qdrant/pull/9638
+qdrant/qdrant,9639,fix: reject out-of-range f64 values in value_to_integer (Fixes #9584),open,2026-06-30,,,1,https://github.com/qdrant/qdrant/pull/9639
+qdrant/qdrant,9640,"fix: guard f64→i64 conversion against out-of-range saturation in payload matching (Fixes #9584, #9586, #9632)",closed_unmerged,2026-06-30,,2026-08-30,5,https://github.com/qdrant/qdrant/pull/9640
+future-agi/future-agi,1188,fix: add case-insensitive tokenization to Jaccard and SorensenDice similarity (Fixes #653),closed_unmerged,2026-06-30,,2026-10-21,3,https://github.com/future-agi/future-agi/pull/1188
+future-agi/future-agi,1189,fix: correct rate-limit window from 1000s to 3600s and remove dead middleware (Fixes #383),closed_unmerged,2026-06-30,,2026-10-21,3,https://github.com/future-agi/future-agi/pull/1189
+future-agi/future-agi,1193,fix: add explicit ref_name to UserSerializer Meta classes (Fixes #1190),closed_unmerged,2026-07-01,,2026-08-25,3,https://github.com/future-agi/future-agi/pull/1193
+lancedb/lancedb,3608,ci: update deprecated GitHub Actions to latest versions (Fixes #3577),merged,2026-07-01,2026-07-01,2026-07-01,0,https://github.com/lancedb/lancedb/pull/3608
+medspacy/medspacy,340,fix: escape $ in newline_pattern regex to prevent configparser interpolation error (Fixes #124),closed_unmerged,2026-07-01,,2026-08-13,1,https://github.com/medspacy/medspacy/pull/340
+beda-software/fhir-py,159,fix: handle explicit ports in _build_request_url (Fixes #76),open,2026-07-01,,,0,https://github.com/beda-software/fhir-py/pull/159
+beda-software/fhir-py,161,fix: make ResourceNotFound inherit from OperationOutcome (Fixes #153),open,2026-07-01,,,0,https://github.com/beda-software/fhir-py/pull/161
+sunlabuiuc/PyHealth,1172,fix: use context manager for file operations in cardiology_detect.py (Fixes #1171),open,2026-07-01,,,2,https://github.com/sunlabuiuc/PyHealth/pull/1172
+beda-software/fhir-py,162,docs: add autohooks setup and mypy CI check (Fixes #144),open,2026-07-02,,,0,https://github.com/beda-software/fhir-py/pull/162
+sunlabuiuc/PyHealth,1174,fix: replace bare except with specific exception types (Fixes #1173),open,2026-07-02,,,3,https://github.com/sunlabuiuc/PyHealth/pull/1174
+beda-software/fhir-py,163,fix: don't pass _count when _id is specified in searchset.get() (Fixes #100),open,2026-07-02,,,3,https://github.com/beda-software/fhir-py/pull/163
+aphp/edsnlp,517,fix: make minute_pattern and second_pattern match 00 consistently (Fixes #516),merged,2026-07-02,2026-09-08,2026-09-08,3,https://github.com/aphp/edsnlp/pull/517
+medspacy/medspacy,341,fix: replace global warnings.filterwarnings('ignore') with targeted matcher checks (Fixes #117),closed_unmerged,2026-07-02,,2026-08-13,1,https://github.com/medspacy/medspacy/pull/341
+weaviate/weaviate-python-client,2086,fix: add stability check to wait_for_vector_indexing (Fixes #1412),open,2026-07-02,,,1,https://github.com/weaviate/weaviate-python-client/pull/2086
+ollama/ollama,18555,app: don't animate sidebar on load,open,2026-09-20,,,1,https://github.com/ollama/ollama/pull/18555
+headroomlabs-ai/headroom,3692,fix(smart-crusher): disclose dropped scalar-array items with a retrievable ccr sentinel,merged,2026-09-21,2026-09-24,2026-09-24,4,https://github.com/headroomlabs-ai/headroom/pull/3692
+chroma-core/chroma,7784,[BUG](embedding-functions): raise typed error instead of KeyError on unexpected Cloudflare Workers AI response,open,2026-09-23,,,2,https://github.com/chroma-core/chroma/pull/7784
+headroomlabs-ai/headroom,3741,fix(spreadsheet): stop fabricating .xls integer digits above 2^53,closed_unmerged,2026-09-23,,2026-09-24,3,https://github.com/headroomlabs-ai/headroom/pull/3741
+thedotmack/claude-mem,4217,test: add generated-bundle export contract test for the OpenCode plugin (follow-up to #3803),merged,2026-09-24,2026-10-01,2026-10-01,9,https://github.com/thedotmack/claude-mem/pull/4217
+thedotmack/claude-mem,4243,"fix: classify Gemini per-minute 429s as rate_limit, not quota_exhausted",merged,2026-09-26,2026-10-01,2026-10-01,4,https://github.com/thedotmack/claude-mem/pull/4243
+headroomlabs-ai/headroom,3825,fix(pricing): warn once and flag unknown-model default price as estimated,open,2026-09-27,,,11,https://github.com/headroomlabs-ai/headroom/pull/3825
+mem0ai/mem0,7476,docs: link documentation issue template in contributing guide,open,2026-09-27,,,2,https://github.com/mem0ai/mem0/pull/7476
+qdrant/fastembed,744,feat: support huggingface-hub 2.x,open,2026-09-28,,,1,https://github.com/qdrant/fastembed/pull/744
+Aperivue/medsci-skills,544,feat(deidentify): add Italian (it) PHI locale pack,merged,2026-09-28,2026-10-01,2026-10-01,5,https://github.com/Aperivue/medsci-skills/pull/544
+romeo111/OpenOnco,648,fix(render): stop leaking English UI labels onto Ukrainian plan pages,merged,2026-09-29,2026-10-04,2026-10-04,1,https://github.com/romeo111/OpenOnco/pull/648
+FlagOpen/FlagEmbedding,1608,fix(inference): only retry batch-size probing on genuine OOM errors,open,2026-09-30,,,0,https://github.com/FlagOpen/FlagEmbedding/pull/1608
+topoteretes/cognee,5341,fix: persist importance_weight when re-ingesting data,open,2026-10-02,,,0,https://github.com/topoteretes/cognee/pull/5341
+thedotmack/claude-mem,4369,fix(oauth): fall back to ~/.claude/.credentials.json when the Linux keychain lookup misses,merged,2026-10-03,2026-10-04,2026-10-04,3,https://github.com/thedotmack/claude-mem/pull/4369
+huggingface/sentence-transformers,4122,fix: make saved weight files as readable as other saved files,closed_unmerged,2026-10-04,,2026-10-07,2,https://github.com/huggingface/sentence-transformers/pull/4122
+neuml/txtai,1348,Fix StorageTask listing failing on tagged storage inputs,merged,2026-10-05,2026-10-07,2026-10-07,3,https://github.com/neuml/txtai/pull/1348
+weaviate/weaviate,13471,Escape text2vec-google projectId and modelId values that reshape the Vertex AI request URL,closed_unmerged,2026-10-06,,2026-10-13,5,https://github.com/weaviate/weaviate/pull/13471
+Graphify-Labs/graphify,4210,fix(elixir): emit calls edges for keyword-form def bodies,closed_unmerged,2026-10-07,,2026-10-08,3,https://github.com/Graphify-Labs/graphify/pull/4210
+infiniflow/ragflow,20620,fix(agent): serialize Invoke variables into GET query params and POST/PUT bodies,open,2026-10-08,,,3,https://github.com/infiniflow/ragflow/pull/20620
+neuml/txtai,1365,Fix LogOdds.calibrate to compute the mean once instead of per score,merged,2026-10-08,2026-10-10,2026-10-10,3,https://github.com/neuml/txtai/pull/1365
+Graphify-Labs/graphify,4272,fix(hook-guard): fire the Read nudge for PowerShell source files,closed_unmerged,2026-10-09,,2026-10-10,3,https://github.com/Graphify-Labs/graphify/pull/4272
+Aperivue/medsci-skills,687,Add Spanish (es) PHI de-identification locale pack,merged,2026-10-10,2026-10-17,2026-10-17,3,https://github.com/Aperivue/medsci-skills/pull/687
+Graphify-Labs/graphify,4340,fix(llm): coerce null token counts to 0 across backends,closed_unmerged,2026-10-11,,2026-10-11,3,https://github.com/Graphify-Labs/graphify/pull/4340
+onyx-dot-app/onyx,15931,fix(llm): allow forced reasoning_effort=none through on native OpenAI tool turns,open,2026-10-12,,,4,https://github.com/onyx-dot-app/onyx/pull/15931
+neuml/txtai,1403,fix(scoring): surface sparse model errors from stop() instead of failing silently,merged,2026-10-13,2026-10-16,2026-10-16,5,https://github.com/neuml/txtai/pull/1403
+Mintplex-Labs/anything-llm,6732,fix: include email body/recipients and job prompt in tool approval requests,merged,2026-10-15,2026-10-15,2026-10-15,0,https://github.com/Mintplex-Labs/anything-llm/pull/6732
+unclecode/crawl4ai,2383,fix(deep-crawl): honor remaining max_pages budget in best-first final batch,open,2026-10-15,,,0,https://github.com/unclecode/crawl4ai/pull/2383
+cocoindex-io/cocoindex,2536,fix(serde): fail fast at write for classes the reader rejects,open,2026-10-15,,,6,https://github.com/cocoindex-io/cocoindex/pull/2536
+Graphify-Labs/graphify,4503,fix(mcp): preserve parallel edges through graph.json round-trip and MCP output,closed_unmerged,2026-10-16,,2026-10-16,2,https://github.com/Graphify-Labs/graphify/pull/4503
+Graphify-Labs/graphify,4506,test(serve): lock in per-edge evidence for same-relation parallel edges,open,2026-10-16,,,1,https://github.com/Graphify-Labs/graphify/pull/4506
+thedotmack/claude-mem,4823,fix(sync): track every unindexed row pending when bootstrap finds an empty collection,merged,2026-10-16,2026-10-19,2026-10-19,7,https://github.com/thedotmack/claude-mem/pull/4823
+volcengine/OpenViking,6218,fix(memory): don't delete file when same-batch upsert failed,open,2026-10-17,,,0,https://github.com/volcengine/OpenViking/pull/6218
+VectifyAI/PageIndex,602,fix(security): confine tree_optimize --out/--log writes to allowed directories,open,2026-10-18,,,1,https://github.com/VectifyAI/PageIndex/pull/602
+Mintplex-Labs/anything-llm,6780,fix: default OpenAI image generation to gpt-image-2.5-flare,merged,2026-10-19,2026-10-19,2026-10-19,0,https://github.com/Mintplex-Labs/anything-llm/pull/6780
+weaviate/weaviate,13570,fix(filters): accurate error for explicitly-set empty value arrays,open,2026-10-20,,,2,https://github.com/weaviate/weaviate/pull/13570
+Aperivue/medsci-skills,692,feat(manage-refs): add Methods of Information in Medicine CSL style,open,2026-10-21,,,3,https://github.com/Aperivue/medsci-skills/pull/692
